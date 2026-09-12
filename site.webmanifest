@@ -1,0 +1,22 @@
+{
+  "name": "Denis Makarov",
+  "short_name": "Denis Makarov",
+  "description": "Personal website of Denis Makarov, quantitative researcher and founder of DQuant.",
+  "start_url": "https://artrdon.github.io/",
+  "scope": "https://artrdon.github.io/",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#f7f6f2",
+  "icons": [
+    {
+      "src": "https://artrdon.github.io/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://artrdon.github.io/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
